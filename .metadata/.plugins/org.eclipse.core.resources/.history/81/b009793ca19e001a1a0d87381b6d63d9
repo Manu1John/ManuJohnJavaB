@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Sample {
+public static void main(String[] args) {
+Sum SA=new Sum();
+int num1=100;
+int num2=200;
+SA.calculculateSum(num1,num2);
+SA.displaySum();
+}
+}
+
+

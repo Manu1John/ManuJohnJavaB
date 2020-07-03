@@ -1,0 +1,6 @@
+
+public class Finished {
+void displayfinished() {
+	System.out.println("Follow your dreams By your Plans");
+}
+}

@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class FarSumArray {
+public static void main(String[] args) {
+	Scanner S=new Scanner(System.in);
+System.out.println("Enter a Limit");
+int K=S.nextInt();
+
+int F=ArraySum(K);
+System.out.println("Sum of Array \t"+F);
+}
+static int ArraySum(int L)
+{
+	Scanner S1=new Scanner(System.in);
+	System.out.println("Enter Values");
+	int v[]=new int[L];
+	int i=0;
+	int sum=0;
+	for(i=0;i<L;i++)
+	{
+		v[i]=S1.nextInt();
+		sum=sum+v[i];
+	}
+	return sum;
+}
+
+}

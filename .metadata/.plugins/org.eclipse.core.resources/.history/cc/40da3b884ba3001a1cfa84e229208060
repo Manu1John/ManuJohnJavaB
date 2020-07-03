@@ -1,0 +1,10 @@
+
+public class Sample {
+int a,b;
+Sample(int a , int b){
+	System.out.println(this a+"  "+b);
+	this.a=a;
+	this.b=b;
+}
+
+}

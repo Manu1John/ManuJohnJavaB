@@ -1,0 +1,18 @@
+
+public class Sum {
+
+	
+
+private static final char[] c = null;
+void calculculateSum(int g, int h) {
+	int a,b, c;
+	c=g+h;
+
+
+}
+void displaySum() {
+	System.out.println(c);
+}
+}
+
+

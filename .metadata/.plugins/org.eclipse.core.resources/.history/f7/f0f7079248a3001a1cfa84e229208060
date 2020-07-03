@@ -1,0 +1,9 @@
+
+public class first {
+
+void displayfirst() {
+	System.out.println("Cyber Park");
+	last l=new last();
+	l.displaylast();
+}
+}

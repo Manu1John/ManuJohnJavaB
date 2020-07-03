@@ -1,0 +1,17 @@
+
+public class Sum {
+
+	
+	int c;
+void calculculateSum(int g, int h) {
+	
+	c=g+h;
+
+
+}
+void displaySum() {
+	System.out.println(c);
+}
+}
+
+

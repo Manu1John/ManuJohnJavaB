@@ -1,0 +1,8 @@
+
+public class last {
+void displaylast() {
+	System.out.println("Welcome to CrossRoads");
+}
+	
+}
+

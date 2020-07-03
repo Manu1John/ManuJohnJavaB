@@ -1,0 +1,7 @@
+
+public class B extends A {
+int num;
+void displayb() {
+	System.out.println("Class B");
+}
+}
